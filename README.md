@@ -1,2 +1,3 @@
-# todo_frontend
-Проект для загрузки на vite
+## Оптимизация
+Ветка feature-optimization для проверки preview-деплоя.
+
